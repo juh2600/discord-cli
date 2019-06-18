@@ -13,6 +13,6 @@
   "author": "Joseph Reed",
   "license": "MIT",
   "dependencies": {
-    "@medv/blessed": "^2.0.0"
+    "blessed": "^0.1.81"
   }
 }
